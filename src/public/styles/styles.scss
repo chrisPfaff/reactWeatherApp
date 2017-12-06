@@ -1,0 +1,42 @@
+$border-primary: #888;
+$background-secondary: #9E9E9E;
+$font-primary: 20px;
+$input-y: 20px;
+$input-x: 250px;
+$gutter: 20px;
+
+.footer {
+  background-color: background-secondary;
+    position:fixed;
+    left:0;
+    bottom:0;
+    right:0;
+    height: 35px;
+    text-align: center;
+    color: white;
+}
+
+.footText {
+  margin-bottom: 15px;
+}
+
+.searchBar {
+  padding-top: 40px;
+  text-align: center;
+}
+
+.textbox {
+  font-size: $input-y;
+  box-shadow: 2px 2px 1px border-primary;
+  height: $input-y;
+  width: 250px;
+  padding-right: 10px;
+}
+
+.textbox1 {
+  margin-left: 20px;
+  font-size: 20px;
+  box-shadow: 2px 2px 1px border-primary;
+  height: 20px;
+  width: 250px;
+}

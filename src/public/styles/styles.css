@@ -1,0 +1,80 @@
+.footer {
+    background-color: #9E9E9E;
+    position:fixed;
+    left:0;
+    bottom:0;
+    right:0;
+    height: 35px;
+    text-align: center;
+    color: white;
+}
+
+.footText {
+  margin-bottom: 15px;
+}
+
+.searchBar {
+  padding-top: 40px;
+  text-align: center;
+}
+
+.textbox {
+  font-size: 20px;
+  box-shadow: 2px 2px 1px #888888;
+  height: 20px;
+  width: 250px;
+  padding-right: 10px;
+}
+
+.textbox1 {
+  margin-left: 20px;
+  font-size: 20px;
+  box-shadow: 2px 2px 1px #888888;
+  height: 20px;
+  width: 250px;
+}
+
+.submitButton {
+  margin-left: 20px;
+  margin-bottom: 10px;
+}
+
+.mapButton {
+  margin-top: 20px;
+}
+
+.swirl {
+  margin-top: 100px;
+}
+
+.cloud {
+  margin-top: 10px;
+  margin-right: 20px;
+}
+
+.appBar {
+  margin-top: 10px;
+  font-size: 40px;
+}
+
+.map {
+  padding-top: 20px;
+}
+
+.mapImage {
+  box-shadow: 2px 2px 1px #888888;
+}
+
+.cardData {
+  padding-top: 10px;
+}
+
+
+ul {
+  list-style-type: none;
+}
+
+.list {
+  font-weight: bold;
+  padding-right: 100px;
+}
